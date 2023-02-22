@@ -1,0 +1,2 @@
+# TodoListProj
+ django exercise project
